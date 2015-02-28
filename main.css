@@ -1,0 +1,49 @@
+header{
+	border:2px black solid;
+	font-color:white;
+}
+
+body{
+
+	font-color:white;
+
+}
+
+.box {   
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 3px;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.pic{
+	background-image:url("image/playbutton.png");
+	background-position: center;
+}
+@media all.and (max-width: 480px){
+	header{
+	border:2px black solid;
+	font-color:white;
+}
+
+body{
+	font-color:white;
+
+}
+
+.box {   
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin: 3px;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.pic{
+	background-image:url("image/playbutton.png");
+	background-position: center;
+}
+}
