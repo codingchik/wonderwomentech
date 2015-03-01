@@ -32,3 +32,11 @@ body{
 .font{
     font-size: 25px
 }
+.backop{
+    background-image:url("images/.jpg");
+    float: left;
+    width: 380px;
+    height: 380px;
+    border-width: 2px;
+    border-style: solid;
+}
