@@ -22,28 +22,21 @@ body{
 	background-image:url("image/playbutton.png");
 	background-position: center;
 }
-@media all.and (max-width: 480px){
-	header{
-	border:2px black solid;
-	font-color:white;
-}
 
-body{
-	font-color:white;
-
-}
-
-.box {   
-    float: left;
-    width: 300px;
+.GI1{
+    width: 200px;
     height: 300px;
-    margin: 3px;
-    border-width: 2px;
-    border-style: solid;
+    border:2px solid cyan;
+    margin:1px;
 }
-
-.pic{
-	background-image:url("image/playbutton.png");
-	background-position: center;
+.GI2{
+    width: 200px;
+    height: 300px;
+    border:2px solid cyan;
+    margin:4px;
 }
+.GI3{
+    width: 200px;
+    height: 300px;
+    border:2px solid cyan;
 }
