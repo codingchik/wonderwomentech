@@ -12,18 +12,13 @@ body{
 
 .box {   
     float: left;
-    width: 400px;
-    height: 400px;
-    margin: 20px;
+    width: 380px;
+    height: 380px;
     border-width: 2px;
     border-style: solid;
+    background-image:url("images/playbutton.png");
+    background-position:center;
 }
-
-.pic{
-	background-image:url("image/playbutton.png");
-	background-position: center;
-}
-
 .jumbotron{
     height: 750px;
     width: auto;
